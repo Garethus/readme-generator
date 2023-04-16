@@ -17,7 +17,7 @@ This is a command-line application that helps the user to dynamically generate a
 
 ## Walkthrough-Video
 
-Watch this [video](https://) demonstration to learn the functionality and how to use the application.
+Watch this [video](https://drive.google.com/file/d/1I2l2kXsNPge0AJ5KtoZ95ouatN5v4WAQ/view?usp=sharing) demonstration to learn the functionality and how to use the application.
 
 ## Installation 
 
