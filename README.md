@@ -1,6 +1,6 @@
 # README Generator
 
-(https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen)
+![License](https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen)
 
 ## Description
 
