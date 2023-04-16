@@ -78,8 +78,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   let licenseBadge = renderLicenseBadge(data.license)
   let licenseSection = renderLicenseSection(data.license)
-  return (`![License](${licenseBadge}    
-    \n# ${data.title}   
+  return (`# ${data.title}
+    \n![License](${licenseBadge}     
     \n${data.description}
     \n## Table of Contents
     \n* [Installation](#Installation)
